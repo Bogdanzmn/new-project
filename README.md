@@ -1,2 +1,1 @@
-# new-project
-izmeneniya na servere
+Изменения на основной ветке

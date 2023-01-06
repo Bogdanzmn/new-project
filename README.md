@@ -1,2 +1,1 @@
-# new-project
-izmeneniya na servere
+Text file for new-branch

@@ -1,1 +1,1 @@
-Изменения на основной ветке
+Text file for new-branch
